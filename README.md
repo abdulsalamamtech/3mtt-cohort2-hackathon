@@ -25,9 +25,6 @@ Built With
 
 ## Try it out
 
-Data Science code
-- - https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/data-science.py
-
 Live Demo
 - https://3mtt-cohort2-hackathon.vercel.app
 
@@ -41,9 +38,44 @@ Video Demo
 - https://youtu.be/CHyZoT-tkyk
 
 
+
+## Data Science code
+- [- https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/data-science.py](https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/blob/main/data-science.py)
+
+### Crime Information
+
+### Road Accident Information
+### Natural Disasters Information
+- https://colab.research.google.com/drive/1eImm0wgdNmHaWYj6axluRr58bSaJ2hVn?usp=sharing#scrollTo=rdmkGZsoPjbx
+### Fire Disasters Information
+
+
+
+## Team members
+
+### Abdulsalam Abdulrahman
+    - Fellow ID: 
+    - ALC ID:
+    - Track: Quality Assurance
+    - Email: abdulsalamamtech@gmail.com
+    - State: Kano State.
+
+### Saudat Kabir 
+    - Fellow ID: FE/23/95060533
+    - ALC ID: TP/23/27306570
+    - Track: Data Science
+    - Email: saudakbashir@gmail.com
+    - State: Kano State.
+
+### Bimbo Sunday 
+    - Fellow ID: FE/23/96633328
+    - ALC ID:
+    - Track: Quality Assurance
+    - Email: abimbolasunday15@gmail.com 
+    - State: Kano State.
+
 ## Contact
 Email
 - [abdulsalamamtech@gmail.com](https://mailto:abdulsalamamtech@gmail.com)
 
-## Team members
 

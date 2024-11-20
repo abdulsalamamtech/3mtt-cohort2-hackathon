@@ -42,13 +42,15 @@ Video Demo
 ## Data Science code
 - [- https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/data-science.py](https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/blob/main/data-science.py)
 
+
 ### Crime Information
-
+- https://colab.research.google.com/drive/1GK53bBYtcJJmBt8RYtBOIYeMV_-WAVXf?usp=sharing
 ### Road Accident Information
+- https://colab.research.google.com/drive/1bJGcWBM_lPNuaWhXEcvUWx4Au6V3URUo?usp=sharing
 ### Natural Disasters Information
-- https://colab.research.google.com/drive/1eImm0wgdNmHaWYj6axluRr58bSaJ2hVn?usp=sharing#scrollTo=rdmkGZsoPjbx
+- https://colab.research.google.com/drive/1eImm0wgdNmHaWYj6axluRr58bSaJ2hVn?usp=sharing
 ### Fire Disasters Information
-
+- https://colab.research.google.com/drive/1GUFcTgz4JCoF-AQVqCIPfTVxNxJhWJ81?usp=sharing
 
 
 ## Team members

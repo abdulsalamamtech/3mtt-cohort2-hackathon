@@ -66,8 +66,8 @@ Video Demo
 Our experience from deferent field and the training we got from 3MTT were added together through collaboration effort from Fellows to developed, build and test (QA) this application, this is just the stating point for us there is more to come...
 
 ### Abdulsalam Abdulrahman
-    - Fellow ID: 
-    - ALC ID:
+    - Fellow ID: FE/23/19291622
+    - ALC ID: ID:TP/23/26924445
     - Track: Quality Assurance
     - Email: abdulsalamamtech@gmail.com
     - State: Kano State.
@@ -81,10 +81,19 @@ Our experience from deferent field and the training we got from 3MTT were added 
 
 ### Bimbo Sunday 
     - Fellow ID: FE/23/96633328
-    - ALC ID:
+    - ALC ID: ID:TP/23/26924445
     - Track: Quality Assurance
     - Email: abimbolasunday15@gmail.com 
     - State: Kano State.
+
+
+## Thematic Areas (for 3MTT Tech 4 Good Category) 
+- Health & Wellbeing (emergency service)
+- Education & Skills (learning from AI chatbot)
+- Environmental Sustainability (helps in terms of accident and flood)
+- Public Safety & Security (help in terms of crime)
+- Disaster Management (help in terms of flooding and fire outbreak)
+
 
 ## Contact
 Email

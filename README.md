@@ -6,22 +6,30 @@ them to call for help at their exact location and they can
 also get medical tips to prevent worst-case or lost of life.
 
 
+## 3mtt hackathon HealthForce demo video
+
+HealthForce is an emergency reporting and guiding application.
+
+It is used to report emergencies, accidents, crime, and disasters. 
+It also has a chatbot that helps to simplify emergency situations.
+
 ## Inspiration
-Someone from my hometown lost his life due to a late response from the ambulance, another person was robbed and the security agency didn't arrive very early because they couldn't locate his house this and more issues related to emergencies are happening here in Nigeria.
+Someone from my hometown lost his life due to late arrival of ambulance, another person was robbed and the security agency didn't arrive very early because they couldn't locate his house this and more issues related to emergencies are happening here in Nigeria.
 
 ## Features
-- Emergency Location Pinning
+- Pinning of Emergency
 - AI Chat Assistance
 
 ## What's next for Health Force
-Health Force is going global from my kano state to national level.
+Health Force is going global from kano state to national level.
 
 
-Built With
+## Built With
 - ai
 - gpt (ask cohere model)
 - text to voice
 - voice to text
+- html, css and javascript
 
 ## Try it out
 
@@ -35,7 +43,7 @@ GitHub Repo
 - https://github.com/abdulsalamamtech/3mtt-cohort2-hackathon/
 
 Video Demo
-- https://youtu.be/CHyZoT-tkyk
+- https://youtu.be/BMddd1KPFNQ
 
 
 
@@ -54,6 +62,8 @@ Video Demo
 
 
 ## Team members
+
+Our experience from deferent field and the training we got from 3MTT were added together through collaboration effort from Fellows to developed, build and test (QA) this application, this is just the stating point for us there is more to come...
 
 ### Abdulsalam Abdulrahman
     - Fellow ID: 

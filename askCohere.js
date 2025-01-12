@@ -18,7 +18,9 @@ function askCohere(apiKey, que) {
         "Content-Type": "application/json",
       },
       data: JSON.stringify({
-        model: "command-xlarge-nightly",
+        // model: "command-xlarge-nightly",
+        model: "command-r-plus-08-2024",
+        
         prompt: prompt,
         max_tokens: 1024,
       }),
